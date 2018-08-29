@@ -1,0 +1,29 @@
+{
+	"genders": [{
+			"_id": "5b83658ede64546595c351ca",
+			"gender": "Bachata",
+			"__v": 0
+		},
+		{
+			"_id": "5b83659ade64546595c351cb",
+			"gender": "Raggaeton",
+			"__v": 0
+		},
+
+		{
+			"_id": "5b83659ede64546595c351cc",
+			"gender": "Salsa",
+			"__v": 0
+		},
+		{
+			"_id": "5b8365a5de64546595c351cd",
+			"gender": "Cumbia",
+			"__v": 0
+		},
+		{
+			"_id": "5b8365aade64546595c351ce",
+			"gender": "Norteño",
+			"__v": 0
+		}
+	]
+}
