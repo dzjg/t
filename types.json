@@ -1,0 +1,30 @@
+{
+	"types": [
+
+{
+    "_id" : "5b88b823eef5a83f1f11bf0b",
+    "name" : "FM",
+    "__v" : 0
+},
+{
+    "_id" : "5b88b83beef5a83f1f11bf17",
+    "name" : "AM",
+    "__v" : 0
+},
+{
+    "_id" : "5b88b85ceef5a83f1f11bf2c",
+    "name" : "INTERNET",
+    "__v" : 0
+},
+{
+    "_id" : "5b88b866eef5a83f1f11bf30",
+    "name" : "TV",
+    "__v" : 0
+},
+{
+    "_id" : "5b88b87deef5a83f1f11bf3b",
+    "name" : "PODCAST",
+    "__v" : 0
+}
+	]
+}
