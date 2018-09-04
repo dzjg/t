@@ -1,0 +1,46 @@
+
+{
+	"zones": [
+
+{
+    "_id" : "5b8eb874489aeed2d714cbeb",
+    "code" : "AF",
+    "name" : "Africa"
+},
+{
+    "_id" : "5b8eb874489aeed2d714cbec",
+    "code" : "NA",
+    "name" : "North America"
+},
+{
+    "_id" : "5b8eb874489aeed2d714cbed",
+    "code" : "CA",
+    "name" : "Central America"
+},
+{
+    "_id" : "5b8eb874489aeed2d714cbee",
+    "code" : "SA",
+    "name" : "South America"
+},
+{
+    "_id" : "5b8eb874489aeed2d714cbef",
+    "code" : "OC",
+    "name" : "Oceania"
+},
+{
+    "_id" : "5b8eb874489aeed2d714cbf0",
+    "code" : "EU",
+    "name" : "Europe"
+},
+{
+    "_id" : "5b8eb874489aeed2d714cbf1",
+    "code" : "AN",
+    "name" : "Antarctica"
+},
+{
+    "_id" : "5b8eb874489aeed2d714cbf2",
+    "code" : "AS",
+    "name" : "Asia"
+}
+	]
+}
